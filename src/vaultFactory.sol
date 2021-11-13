@@ -6,7 +6,7 @@ import 'https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contr
 import 'https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/access/Ownable.sol';
 
 //homemade
-import './src/vault.sol'
+import './src/vault.sol';
 
 contract VaultFactory is Ownable {
     
